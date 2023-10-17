@@ -1,1 +1,2 @@
 # New-file
+git init
